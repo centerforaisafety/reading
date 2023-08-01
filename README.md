@@ -1,4 +1,5 @@
-# Reading and Learning at CAIS
+
+![](./media/logo.png)
 
 Welcome to the [Center for AI Safety's (CAIS)](https://safe.ai) Reading and Learning (RAL) event, held bi-weekly. This platform serves as a vibrant nexus where we dissect and explore recent publications from the Machine Learning community. Our discussions encompass an array of publications, not only emerging from CAIS but also those curated from outside our institution. We further enrich our events by inviting individuals external to CAIS to present their work, fostering a dynamic exchange of ideas and perspectives.
 
