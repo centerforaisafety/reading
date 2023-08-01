@@ -13,7 +13,7 @@ Subscribe to all RAL events using this [link](https://calendar.google.com/calend
 
 ### [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/abs/2307.15043)
 
-**Date and Time**: 1 PM Pacific Time, August 10, 2023
+**Date and Time**: 1 PM Pacific Time, August 17, 2023
 
 **Location**: [Zoom](https://zoom.us/j/92425376598?pwd=TjNEYXBzZm1Td1ZhUFBHbmMraGRGQT09)
 
