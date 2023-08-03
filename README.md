@@ -17,7 +17,7 @@ Subscribe to all RAL events using this [link](https://calendar.google.com/calend
 
 **Date and Time**: 1 PM Pacific Time, August 17, 2023
 
-**Location**: [Zoom](https://zoom.us/j/92425376598?pwd=TjNEYXBzZm1Td1ZhUFBHbmMraGRGQT09)
+**Location**: [Zoom](https://zoom.us/j/94246928900?pwd=akV1bWxDaEhzdkFRVXBSUHdKMUlHQT09)
 
 **Speaker**: [Andy Zou](https://andyzoujm.github.io/) (Carnegie Mellon University)
 
