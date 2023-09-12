@@ -13,9 +13,23 @@ Subscribe to all RAL events using this [link](https://calendar.google.com/calend
 
 ## Upcoming Presentation
 
-### [Do the Rewards Justify the Means? Measuring Trade-Offs Between Rewards and Ethical Behavior in the MACHIAVELLI Benchmark](https://arxiv.org/pdf/2304.03279.pdf)
+### [AI Deception: A Survey of Examples, Risks, and Potential Solutions](https://arxiv.org/abs/2308.14752)
 
 **Date and Time**: 1 PM Pacific Time, September 14, 2023
+
+**Location**: [Zoom](https://zoom.us/j/94246928900?pwd=akV1bWxDaEhzdkFRVXBSUHdKMUlHQT09)
+
+**Speaker**: [Aidan O'Gara](https://www.lesswrong.com/users/aidan-o-gara) (Center for AI Safety)
+
+**Abstract** 
+
+  <div style="font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; padding: 20px; border-radius: 10px; background-color: #f9f9f9; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <p>This paper argues that a range of current AI systems have learned how to deceive humans. We define deception as the systematic inducement of false beliefs in the pursuit of some outcome other than the truth. We first survey empirical examples of AI deception, discussing both special-use AI systems (including Meta's CICERO) built for specific competitive situations, and general-purpose AI systems (such as large language models). Next, we detail several risks from AI deception, such as fraud, election tampering, and losing control of AI systems. Finally, we outline several potential solutions to the problems posed by AI deception: first, regulatory frameworks should subject AI systems that are capable of deception to robust risk-assessment requirements; second, policymakers should implement bot-or-not laws; and finally, policymakers should prioritize the funding of relevant research, including tools to detect AI deception and to make AI systems less deceptive. Policymakers, researchers, and the broader public should work proactively to prevent AI deception from destabilizing the shared foundations of our society.</p>
+  </div>
+
+<!-- ### [Do the Rewards Justify the Means? Measuring Trade-Offs Between Rewards and Ethical Behavior in the MACHIAVELLI Benchmark](https://arxiv.org/pdf/2304.03279.pdf)
+
+**Date and Time**: 1 PM Pacific Time, September 28, 2023
 
 **Location**: [Zoom](https://zoom.us/j/94246928900?pwd=akV1bWxDaEhzdkFRVXBSUHdKMUlHQT09)
 
@@ -25,7 +39,7 @@ Subscribe to all RAL events using this [link](https://calendar.google.com/calend
 
   <div style="font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; padding: 20px; border-radius: 10px; background-color: #f9f9f9; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
     <p>Artificial agents have traditionally been trained to maximize reward, which may incentivize power-seeking and deception, analogous to how next-token prediction in language models (LMs) may incentivize toxicity. So do agents naturally learn to be Machiavellian? And how do we measure these behaviors in general-purpose models such as GPT-4? Towards answering these questions, we introduce MACHIAVELLI, a benchmark of 134 Choose-Your-Own-Adventure games containing over half a million rich, diverse scenarios that center on social decision-making. Scenario labeling is automated with LMs, which are more performant than human annotators. We mathematize dozens of harmful behaviors and use our annotations to evaluate agents' tendencies to be power-seeking, cause disutility, and commit ethical violations. We observe some tension between maximizing reward and behaving ethically. To improve this trade-off, we investigate LM-based methods to steer agents' towards less harmful behaviors. Our results show that agents can both act competently and morally, so concrete progress can currently be made in machine ethics--designing agents that are Pareto improvements in both safety and capabilities.</p>
-  </div>
+  </div> -->
 
 ## Become a Speaker
 We welcome people from universities and the industry to present their work at RAL! We are interested in topics varying from general AI safety to adversarial robustness, privacy, fairness, interpretability, language models, vision models, multimodality, etc. If you are interested in sharing your work with CAIS and other people, please fill out the following Google Form.
